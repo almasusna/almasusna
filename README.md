@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Kazakhstan-based developer with a background in cyber operations.  My passion for programming drives my work on independent projects. I have a growing skillset in [list 2-3 core programming languages you know well]. Additionally, I'm fascinated by AI and how it can enhance software solutions.
+
+[![Almas' GitHub stats](https://github-readme-stats.vercel.app/api?username=almasusna)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **almasusna/almasusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
